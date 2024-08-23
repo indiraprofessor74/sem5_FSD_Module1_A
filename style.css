@@ -1,0 +1,19 @@
+#first{
+    color:blue; 
+    background-color: rgb(195, 226, 226);
+}
+.odd{
+    color:white; 
+    background-color: rgb(1, 34, 34);
+}
+.even{
+    color:rgb(1, 34, 34);; 
+    background-color: rgb(226, 216, 216);
+}
+ol > li{
+    color: yellow;
+}
+a[href = "https://google.com"]
+{
+    color: pink ;
+}
