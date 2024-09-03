@@ -17,3 +17,6 @@ a[href = "https://google.com"]
 {
     color: pink ;
 }
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
